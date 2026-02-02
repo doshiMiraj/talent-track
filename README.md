@@ -27,10 +27,6 @@ TalentTrack is a mini dashboard application built using **Next.js App Router** a
 - Chakra UI v3 Dialogs and theming
 - Building production-grade dashboards
 
-## Screenshots
-
-(Add screenshots here)
-
 ## Getting Started
 
 ```bash
